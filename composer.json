@@ -1,0 +1,21 @@
+{
+  "name": "vitalielisnic/vigenere-cipher-helper",
+  "description": "Vigenère Cipher Helper",
+  "require": {
+    "phpunit/phpunit": "^6.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "VigenereCipher\\": "src/"
+    }
+  },
+  "config": {
+    "bin-dir": "bin"
+  },
+  "authors": [
+    {
+      "name": "Vitalie Lisnic",
+      "email": "lisnicvitalie@yahoo.com"
+    }
+  ]
+}
